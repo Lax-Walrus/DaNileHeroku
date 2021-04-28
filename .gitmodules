@@ -1,0 +1,6 @@
+[submodule "Full-Crud-MERN"]
+	path = Full-Crud-MERN
+	url = https://github.com/Lax-Walrus/Full-Crud-MERN
+[submodule "estorebackendfix"]
+	path = estorebackendfix
+	url = https://github.com/Lax-Walrus/estorebackendfix
