@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "nodemon --watch estorebackendfix --exec node --exerimental-modules estorebackendfix/server.js",
-    "build": "cd Full-Crud-MERN && npm install & npm run build",
+    "build": "cd Full-Crud-MERN && npm install & npm start",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
