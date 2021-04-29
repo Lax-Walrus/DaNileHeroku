@@ -1,10 +1,11 @@
 {
-  "name": "Da-Nile",
+  "name": "danile",
   "version": "1.0.0",
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "main": "index.js",
   "scripts": {
     "start": "nodemon --watch estorebackendfix --exec node --exerimental-modules estorebackendfix/server.js",
+    "build": "cd Full-Crud-MERN && npm install && npm run build",
     "heroku-postbuild": "cd Full-Crud-MERN && npm install --only=dev && npm install &&  npm run build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
