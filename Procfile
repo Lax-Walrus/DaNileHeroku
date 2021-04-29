@@ -1,1 +1,1 @@
-web: node --experimental-modules estorebackendfix/server.js
+web: nodemon --experimental-modules estorebackendfix/server.js
