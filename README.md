@@ -2,7 +2,7 @@
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
-![snapshot](utils\DaNilescreenCapture.JPG)
+![snapshot](https://github.com/Lax-Walrus/DaNileHeroku/blob/master/utils/DaNilescreenCapture.JPG?raw=true)
 
 ## description:
 
